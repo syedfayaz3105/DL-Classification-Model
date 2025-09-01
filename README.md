@@ -159,8 +159,8 @@ conf_matrix = confusion_matrix(actuals, predictions)
 class_report = classification_report(actuals, predictions, target_names=iris.target_names)
 
 # Print details
-print("\nName: S.YOGESH")
-print("Register No: 212224230311")
+print("\nName: FARHANA H")
+print("Register No: 212223230057")
 print(f'Test Accuracy: {accuracy:.2f}%')
 print("Confusion Matrix:\n", conf_matrix)
 print("Classification Report:\n", class_report)
@@ -201,7 +201,6 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 
 ## Classification Report
 
-<img width="614" height="402" alt="image" src="https://github.com/user-attachments/assets/8bf2ff65-0c13-4c9d-a8d9-fc15566cd03d" />
 
 
 ### New Sample Data Prediction
